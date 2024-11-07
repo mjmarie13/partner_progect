@@ -7,3 +7,18 @@ h1 {
 h2 {
    color: #46c7c7;
 }
+h2 {
+    text-align: center;
+}
+p {
+  text-align: center;
+}
+h3 {
+    color: #c24641;
+}
+h3 {
+    text-align: center;
+}
+button {
+    align-content: center;
+}
