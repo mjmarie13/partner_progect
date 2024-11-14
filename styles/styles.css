@@ -24,3 +24,10 @@ button {
     margin: auto;
     font-size: 20px;
 }
+img {
+    border: 7px solid #20f169;
+    border-radius: 100%;
+}
+backround-color {
+    color: #9e7bff
+}
